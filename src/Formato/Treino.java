@@ -1,2 +1,4 @@
-package Formato;public class Treino {
+package Formato;
+
+public class Treino {
 }

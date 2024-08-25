@@ -1,2 +1,4 @@
-package Repositorio;public class PagamentoDados {
+package Repositorio;
+
+public class PagamentoDados {
 }

@@ -1,2 +1,4 @@
-package Servicos;public class PlannoServico {
+package Servicos;
+
+public class PlannoServico {
 }

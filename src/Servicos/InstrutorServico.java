@@ -1,2 +1,4 @@
-package Servicos;public class InstrutorServico {
+package Servicos;
+
+public class InstrutorServico {
 }

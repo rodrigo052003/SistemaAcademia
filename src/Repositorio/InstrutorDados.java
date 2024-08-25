@@ -1,2 +1,4 @@
-package Repositorio;public class InstrutorDados {
+package Repositorio;
+
+public class InstrutorDados {
 }

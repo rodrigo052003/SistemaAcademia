@@ -1,2 +1,4 @@
-package Controlador;public class InstrutorControle {
+package Controlador;
+
+public class InstrutorControle {
 }

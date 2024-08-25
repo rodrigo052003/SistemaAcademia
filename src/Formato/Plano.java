@@ -1,2 +1,4 @@
-package Formato;public class Plano {
+package Formato;
+
+public class Plano {
 }

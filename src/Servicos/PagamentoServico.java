@@ -1,2 +1,4 @@
-package Servicos;public class PagamentoServico {
+package Servicos;
+
+public class PagamentoServico {
 }

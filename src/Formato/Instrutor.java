@@ -1,2 +1,4 @@
-package Formato;public class Instrutor {
+package Formato;
+
+public class Instrutor {
 }

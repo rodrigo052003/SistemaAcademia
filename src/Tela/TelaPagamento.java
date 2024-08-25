@@ -1,2 +1,4 @@
-package Tela;public class TelaPagamento {
+package Tela;
+
+public class TelaPagamento {
 }

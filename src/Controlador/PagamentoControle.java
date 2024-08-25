@@ -1,2 +1,4 @@
-package Controlador;public class PagamentoControle {
+package Controlador;
+
+public class PagamentoControle {
 }

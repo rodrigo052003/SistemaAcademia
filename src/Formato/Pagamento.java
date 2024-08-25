@@ -1,2 +1,4 @@
-package Formato;public class Pagamento {
+package Formato;
+
+public class Pagamento {
 }

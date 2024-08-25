@@ -1,2 +1,4 @@
-package Tela;public class TelaCadastroInstrutor {
+package Tela;
+
+public class TelaCadastroInstrutor {
 }

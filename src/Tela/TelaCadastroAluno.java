@@ -1,2 +1,4 @@
-package Tela;public class TelaCadastroAluno {
+package Tela;
+
+public class TelaCadastroAluno {
 }

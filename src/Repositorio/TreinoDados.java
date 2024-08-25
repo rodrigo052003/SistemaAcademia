@@ -1,2 +1,4 @@
-package Repositorio;public class TreinoDados {
+package Repositorio;
+
+public class TreinoDados {
 }

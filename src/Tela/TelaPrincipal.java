@@ -1,2 +1,4 @@
-package Tela;public class TelaPrincipal {
+package Tela;
+
+public class TelaPrincipal {
 }
