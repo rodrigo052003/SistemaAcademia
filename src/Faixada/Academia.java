@@ -2,7 +2,13 @@ package Faixada;
 
 public class Academia {
     public static void main(String[] args) {
-        System.out.println("Bem-vindo à Academia!");
-        System.out.println("Alunos Cadastradas:\n" + "Victor\n" + "Navalha\n" + "Rodrigo\n" + "Gadelha\n");
+        int idade = 10;
+        float salario = 2000;
+        double altura = 1.2;
+        byte lokura = 127;
+        boolean falso = false;
+        boolean verdadeiro = true;
+        System.out.println("Sua idade é " + idade + " anos.\n Sua altura é de " + altura + "\nSeu salário é de " + salario + "\nSua Lokura é de " + lokura + verdadeiro);
     }
+
 }
